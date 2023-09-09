@@ -1,0 +1,2 @@
+This is some random text so I can see how git add . works.
+Good luck to me!
